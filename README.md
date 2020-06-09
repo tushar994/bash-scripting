@@ -1,3 +1,3 @@
 # Bash_scripting
 
-This is the bash scripting asisgnment we did in college
+This is the bash scripting assignment we did in college
